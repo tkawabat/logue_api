@@ -1,0 +1,15 @@
+bin/
+include/
+lib/
+__init__.py
+__pycache__
+
+migrations/
+pyvenv.cfg
+db.sqlite3
+
+prod.py
+develop.py
+
+settings.json
+.swp
